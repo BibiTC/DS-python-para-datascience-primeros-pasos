@@ -52,4 +52,8 @@ Editando textos
 
 22 - Crea un código que solicite una frase al usuario y luego imprima la misma frase con todas las vocales "a" reemplazadas por el carácter "@".
 
+<<<<<<< HEAD
 23 - Crea un código que solicite una frase al usuario y luego imprima la misma frase con todas las consonantes "s" reemplazadas por el carácter "$".
+=======
+23 - Crea un código que solicite una frase al usuario y luego imprima la misma frase con todas las consonantes "s" reemplazadas por el carácter "$".
+>>>>>>> d446751e5eab2af5708b1161a4e195828a192d1c
