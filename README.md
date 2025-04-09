@@ -2,6 +2,11 @@
 
 Vamos a practicar el uso de varios tipos de variables y la función input a través de algunas actividades. Resuelve los problemas propuestos en código.
 
+Link de Google Colab con en desarrollo de los ejercicios relacionados abajo:
+
+[Google Colab](https://colab.research.google.com/drive/1af7mVf3xXjka3YdfInrrbYLnBLEV6k4u?usp=sharing)
+
+
 Recopilación y muestra de datos
 
 1 - Crea un programa que solicite al usuario que escriba su nombre y luego imprima "Hola, [nombre]."
