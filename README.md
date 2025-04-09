@@ -1,55 +1,48 @@
 # python-para-datascience-primeros-pasos
 
-Vamos a practicar el uso de varios tipos de variables y la función input a través de algunas actividades. Resuelve los problemas propuestos en código.
+Link de Google Colab con en desarrollo de los ejercicios relacionados abajo:
 
-Recopilación y muestra de datos
 
-1 - Crea un programa que solicite al usuario que escriba su nombre y luego imprima "Hola, [nombre]."
+[Google Colab](https://colab.research.google.com/drive/1CtxugUVOF71ZaWT7zACvhF3TCTq6Au8I?usp=sharing)
 
-2 - Crea un programa que solicite al usuario que escriba su nombre y edad, y luego imprima "Hola, [nombre], tienes [edad] años."
 
-3 - Crea un programa que solicite al usuario que escriba su nombre, edad y altura en metros, y luego imprima "Hola, [nombre], tienes [edad] años y mides [altura] metros."
+Entrenando la programación
 
-Calculadora con operadores
+1 - Escribe un programa que pida a la persona usuaria que proporcione dos números y muestre el número más grande.
 
-4 - Crea un programa que solicite dos valores numéricos al usuario y luego imprima la suma de ambos valores.
+2 - Escribe un programa que solicite el porcentaje de crecimiento de producción de una empresa e informe si hubo un crecimiento (porcentaje positivo) o una disminución (porcentaje negativo).
 
-5 - Crea un programa que solicite tres valores numéricos al usuario y luego imprima la suma de los tres valores.
+3 - Escribe un programa que determine si una letra proporcionada por la persona usuaria es una vocal o una consonante.
 
-6 - Crea un programa que solicite dos valores numéricos al usuario y luego imprima la resta del primero menos el segundo valor.
+4 - Escribe un programa que lea valores promedio de precios de un modelo de automóvil durante 3 años consecutivos y muestre el valor más alto y más bajo entre esos tres años.
 
-7 - Crea un programa que solicite dos valores numéricos al usuario y luego imprima la multiplicación de los dos valores.
+5 - Escribe un programa que pregunte sobre el precio de tres productos e indique cuál es el producto más barato para comprar.
 
-8 - Crea un programa que solicite dos valores numéricos, un numerador y un denominador, y realice la división entre los dos valores. Asegúrate de que el valor del denominador no sea igual a 0.
+6 - Escribe un programa que lea tres números y los muestre en orden descendente.
 
-9 - Crea un programa que solicite dos valores numéricos, un operador y una potencia, y realice la exponenciación entre estos dos valores.
+7 -Escribe un programa que pregunte en qué turno estudia la persona usuaria ("mañana", "tarde" o "noche") y muestre el mensaje "¡Buenos Días!", "¡Buenas Tardes!", "¡Buenas Noches!" o "Valor Inválido!", según el caso.
 
-10 - Crea un programa que solicite dos valores numéricos, un numerador y un denominador, y realice la división entera entre los dos valores. Asegúrate de que el valor del denominador no sea igual a 0.
+8 - Escribe un programa que solicite un número entero a la persona usuaria y determine si es par o impar. Pista: Puedes usar el operador módulo (%).
 
-11 - Crea un programa que solicite dos valores numéricos, un numerador y un denominador, y devuelva el resto de la división entre los dos valores. Asegúrate de que el valor del denominador no sea igual a 0.
+9 - Escribe un programa que pida un número a la persona usuaria y le informe si es entero o decimal.
 
-12 - Crea un código que solicite las 3 notas de un estudiante e imprima el promedio de las notas.
+Momento de los proyectos
 
-13 - Crea un código que calcule e imprima el promedio ponderado de los números 5, 12, 20 y 15 con pesos respectivamente iguales a 1, 2, 3 y 4.
+10 - Un programa debe ser escrito para leer dos números y luego preguntar a la persona usuaria qué operación desea realizar. El resultado de la operación debe incluir información sobre el número, si es par o impar, positivo o negativo, e entero o decimal.
 
-Editando textos
+11 - Escribe un programa que pida a la persona usuaria tres números que representan los lados de un triángulo. El programa debe informar si los valores pueden utilizarse para formar un triángulo y, en caso afirmativo, si es equilátero, isósceles o escaleno. Ten en cuenta algunas sugerencias:
 
-14 - Crea una variable llamada "frase" y asígnale una cadena de texto de tu elección. Luego, imprime la frase en pantalla.
+Tres lados forman un triángulo cuando la suma de cualesquiera dos lados es mayor que el tercero;
+Triángulo Equilátero: tres lados iguales;
+Triángulo Isósceles: dos lados iguales;
+Triángulo Escaleno: tres lados diferentes.
+12 - Un establecimiento está vendiendo combustibles con descuentos variables. Para el etanol, si la cantidad comprada es de hasta 15 litros, el descuento será del 2% por litro. En caso contrario, será del 4% por litro. Para el diésel, si la cantidad comprada es de hasta 15 litros, el descuento será del 3% por litro. En caso contrario, será del 5% por litro. El precio por litro de diésel es de R$ 2,00 y el precio por litro de etanol es de R$ 1,70. Escribe un programa que lea la cantidad de litros vendidos y el tipo de combustible (E para etanol y D para diésel) y calcule el valor a pagar por el cliente. Ten en cuenta algunas sugerencias:
 
-15 - Crea un código que solicite una frase y luego imprima la frase en pantalla.
+El valor del descuento será el producto del precio por litro, la cantidad de litros y el valor del descuento.
+El valor a pagar por un cliente será el resultado de la multiplicación del precio por litro por la cantidad de litros menos el valor del descuento resultante del cálculo.
+13 - En una empresa de venta de bienes raíces, debes crear un código que analice los datos de ventas anuales para ayudar a la dirección en la toma de decisiones. El código debe recopilar los datos de cantidad de ventas durante los años 2022 y 2023 y calcular la variación porcentual. A partir del valor de la variación, se deben proporcionar las siguientes sugerencias:
 
-16 - Crea un código que solicite una frase al usuario y luego imprima la misma frase ingresada pero en mayúsculas.
-
-17 - Crea un código que solicite una frase al usuario y luego imprima la misma frase ingresada pero en minúsculas.
-
-18 - Crea una variable llamada "frase" y asígnale una cadena de texto de tu elección. Luego, imprime la frase sin espacios en blanco al principio y al final.
-
-19 - Crea un código que solicite una frase al usuario y luego imprima la misma frase sin espacios en blanco al principio y al final.
-
-20 - Crea un código que solicite una frase al usuario y luego imprima la misma frase sin espacios en blanco al principio y al final, además de convertirla a minúsculas.
-
-21 - Crea un código que solicite una frase al usuario y luego imprima la misma frase con todas las vocales "e" reemplazadas por la letra "f".
-
-22 - Crea un código que solicite una frase al usuario y luego imprima la misma frase con todas las vocales "a" reemplazadas por el carácter "@".
-
-23 - Crea un código que solicite una frase al usuario y luego imprima la misma frase con todas las consonantes "s" reemplazadas por el carácter "$".
+Para una variación superior al 20%: bonificación para el equipo de ventas.
+Para una variación entre el 2% y el 20%: pequeña bonificación para el equipo de ventas.
+Para una variación entre el 2% y el -10%: planificación de políticas de incentivo a las ventas.
+Para bonificaciones inferiores al -10%: recorte de gastos.
