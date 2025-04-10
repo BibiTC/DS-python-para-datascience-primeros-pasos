@@ -5,7 +5,7 @@ Vamos practicar el uso de estructuras de repetición como el "while" y el "for" 
 
 Link de Google Colab con en desarrollo de los ejercicios relacionados abajo:
 
-[Google Colab]()
+[Google Colab](https://colab.research.google.com/drive/1-_ZsPwJKyuVbPvJGEz1383U72ehI0Evs?usp=sharing)
 
 
 Comencemos resolviendo algunos problemas para calentar y prepararnos para los proyectos.
