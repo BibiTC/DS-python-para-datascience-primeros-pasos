@@ -1,12 +1,16 @@
-
- 12 Desafío: ¡Es hora de practicar!
- Siguiente pregunta
+# python-para-datascience-primeros-pasos
 
 Vamos practicar el uso de estructuras de datos, como listas y diccionarios, a través de algunas actividades. Ahora que estamos avanzando en el contenido, podemos hacer los desafíos más interesantes. ¡Para ello, trabajaremos con proyectos de código!
 
+Link de Google Colab con el desarrollo de los ejercicios relacionados abajo:
+
+[Google Colab](https://colab.research.google.com/drive/1efolhZfofaHGAlrhsTcqWr_2fqcOeCDr?usp=sharing)
+
 Primero, resolveremos algunos problemas para calentar y prepararnos para los proyectos.
 
-Entrenando la programación
+# Entrenando la programación
+
+----
 
 1 - Crea un programa que tenga la siguiente lista con los gastos de una empresa de papel [2172.54, 3701.35, 3518.09, 3456.61, 3249.38, 2840.82, 3891.45, 3075.26, 2317.64, 3219.08]. Con estos valores, crea un programa que calcule el promedio de gastos. Sugerencia: usa las funciones integradas sum() y len().
 
@@ -20,7 +24,7 @@ Entrenando la programación
 
 6 - Escribe un programa que pida una fecha, especificando el día, mes y año, y determine si es válida para su análisis.
 
-Momento para los proyectos
+# Momento para los proyectos
 
 7 - Para un estudio sobre la multiplicación de bacterias en una colonia, se recopiló el número de bacterias multiplicadas por día y se puede observar a continuación: [1.2, 2.1, 3.3, 5.0, 7.8, 11.3, 16.6, 25.1, 37.8, 56.9]. Con estos valores, crea un código que genere una lista que contenga el porcentaje de crecimiento de bacterias por día, comparando el número de bacterias en cada día con el número de bacterias del día anterior. Sugerencia: para calcular el porcentaje de crecimiento, utiliza la siguiente ecuación: 100 * (muestra_actual - muestra_anterior) / muestra_anterior.
 
