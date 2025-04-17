@@ -6,6 +6,7 @@ Link de Google Colab con el desarrollo de los ejercicios relacionados abajo:
 
 [Google Colab](https://colab.research.google.com/drive/1efolhZfofaHGAlrhsTcqWr_2fqcOeCDr?usp=sharing)
 
+
 Primero, resolveremos algunos problemas para calentar y prepararnos para los proyectos.
 
 # Entrenando la programación
